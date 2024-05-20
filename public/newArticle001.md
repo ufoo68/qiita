@@ -1,11 +1,11 @@
 ---
 title: GPT4oでLINEスタンプ返却botをつくってみる
 tags:
-  - 'LINE'
-  - 'ChatGPT'
+  - LINE
+  - ChatGPT
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-05-20T21:41:06+09:00'
+id: 47977e4bb8332ac1c8a3
 organization_url_name: linedc_jp
 slide: false
 ignorePublish: false
@@ -18,7 +18,7 @@ https://openai.com/index/hello-gpt-4o/
 
 LINEDCでもGPT4oを使った記事が早速出始めています！
 
-https://qiita.com/miu_crescent/items/a380473822adc8c98778
+https://qiita.com/specialman9999/items/6d9d034d730849f94a26
 
 今回は、以前に試して失敗したLINEスタンプ返却bot作成をリベンジしてみようと思います。
 
