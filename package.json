@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.4.1"
+    "@qiita/qiita-cli": "^1.5.0"
   }
 }
