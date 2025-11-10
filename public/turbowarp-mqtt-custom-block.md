@@ -1,14 +1,14 @@
 ---
 title: TurboWarpでmqtt-min.jsというMQTTカスタムブロックを実装した話
 tags:
-  - Scratch
-  - TurboWarp
-  - MQTT
-  - IoT
   - JavaScript
+  - mqtt
+  - Scratch
+  - IoT
+  - turbowarp
 private: true
-updated_at: '2024-05-25T10:00:00+09:00'
-id: turbomqtt-min
+updated_at: '2025-11-11T00:17:29+09:00'
+id: e0cc2e4a87b1976de8d7
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -22,7 +22,7 @@ CDN URL: https://ufoo68.github.io/turbowarp-custom-block/mqtt-min.js
 
 # どんなブロックか
 
-![拡張ブロック](https://raw.githubusercontent.com/ufoo68/turbowarp-custom-block/main/assets/custom-block.png)
+![拡張ブロック](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/209689/06eb553b-def3-443b-bab1-6465673ac1d3.png)
 
 TurboWarpの「拡張機能を追加」から上記URLを貼ると、以下のブロックが出現します。
 
@@ -32,8 +32,6 @@ TurboWarpの「拡張機能を追加」から上記URLを貼ると、以下の�
 - `publish topic ... msg ...`
 - `最後に受信したメッセージ`
 - `MQTTで受信したら`（ハットブロック）
-
-![スクリーンショット 2025-11-10 235221.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/209689/06eb553b-def3-443b-bab1-6465673ac1d3.png)
 
 # Codexと進めたプレーンJavaScript実装のざっくりメモ
 
