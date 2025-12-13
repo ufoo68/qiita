@@ -6,10 +6,10 @@ tags:
   - Scratch
   - IoT
   - turbowarp
-private: true
-updated_at: '2025-11-11T00:17:29+09:00'
+private: false
+updated_at: '2025-12-11T07:03:35+09:00'
 id: e0cc2e4a87b1976de8d7
-organization_url_name: null
+organization_url_name: iotlt
 slide: false
 ignorePublish: false
 ---

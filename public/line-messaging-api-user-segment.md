@@ -6,8 +6,8 @@ tags:
   - Marketing
   - CRM
   - MessagingAPI
-private: true
-updated_at: '2025-11-09T17:00:50+09:00'
+private: false
+updated_at: '2025-12-09T07:03:48+09:00'
 id: 5cb8c82f36f6e05d72fc
 organization_url_name: null
 slide: false
