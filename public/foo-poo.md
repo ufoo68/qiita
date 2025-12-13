@@ -5,7 +5,7 @@ tags:
   - v0
   - fal
 private: true
-updated_at: '2025-12-14T00:02:26+09:00'
+updated_at: '2025-12-14T00:04:16+09:00'
 id: ad7f595221ceb4755498
 organization_url_name: null
 slide: false
